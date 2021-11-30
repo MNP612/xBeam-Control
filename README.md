@@ -1,2 +1,2 @@
-# xBeam-control
- machine control for the xBeam scattering apparatus
+# xBeam-Control
+ Instrument Control of xBeam molecular beam scattering machine
