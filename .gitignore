@@ -1,5 +1,6 @@
-old/
+
 dist/
 .git
 .DS_Store
 build/
+old/
